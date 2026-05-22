@@ -1,0 +1,15 @@
+def add(a):
+    print(a)
+
+def add(a,b):
+    print(a+b)
+
+def add(a,b,c):
+    print(a+b+c)
+
+
+# add(11)
+# add(22,33)
+add(11,22,33)
+
+
